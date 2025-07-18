@@ -1,5 +1,5 @@
-# SuperBot
-Simple multifunction Telegram bot.
+# Super
+Simple multifunction Telegram
 
 ## Commands
 - /start
